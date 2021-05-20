@@ -63,6 +63,6 @@
     background-size: 200%;
     transition: all 1s ;
 }
-.btn:hover{
-    background-position: right;
-}
+/*.btn:hover{*/
+/*    background-position: right;*/
+/*}*/
