@@ -1,0 +1,68 @@
+.wrap{
+    padding: 50px 180px;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px;
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px;
+}
+.btn1{
+    width: 33%;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #e5bc96, #e39537 ,#e5bc96);
+    color: white;
+    background-size: 200%;
+    transition: all 1s ;
+}
+.btn2{
+    width: 33%;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #d496e5, #4a44e2,#d496e5);
+    color: white;
+    background-size: 200%;
+    transition: all 1s ;
+}
+.btn3{
+    width: 33%;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #4fd07e, #0ee2d9,#4fd07e);
+    color: white;
+    background-size: 200%;
+    transition: all 1s ;
+}
+.button1{
+    width: 49%;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #0ed1e3, #b0faf8, #0ed1e3);
+    color: white;
+    background-size: 200%;
+    transition: all 1s ;
+}
+.button2{
+    width: 49%;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #ea88aa, #e84579,#ea88aa);
+    color: white;
+    background-size: 200%;
+    transition: all 1s ;
+}
+.btn:hover{
+    background-position: right;
+}
